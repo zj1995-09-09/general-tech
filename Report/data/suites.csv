@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Sep 28 18:20:36 CST 2022","Wed Sep 28 18:20:36 CST 2022","14","test_Case","test_login_pytest","TestLogin","","","test_userinfo",""
+"passed","Wed Sep 28 18:20:36 CST 2022","Wed Sep 28 18:20:36 CST 2022","21","test_Case","test_login_pytest","TestLogin","","","test_useradd[zj14-13075509405-123456789A!-123456789A!-1]",""
+"passed","Wed Sep 28 18:20:36 CST 2022","Wed Sep 28 18:20:36 CST 2022","38","test_Case","test_login_pytest","TestLogin","","","test_useradd[zj15-13075509406-123456789A!-123456789A!-1]",""
+"passed","Wed Sep 28 18:20:36 CST 2022","Wed Sep 28 18:20:36 CST 2022","43","test_Case","test_login_pytest","TestLogin","","","test_userlist",""
+"passed","Wed Sep 28 18:20:36 CST 2022","Wed Sep 28 18:20:36 CST 2022","12","test_Case","test_login_pytest","TestLogin","","","test_logout",""
+"passed","Wed Sep 28 18:20:36 CST 2022","Wed Sep 28 18:20:36 CST 2022","15","test_Case","test_login_pytest","TestLogin","","","test_update",""
+"passed","Wed Sep 28 18:20:36 CST 2022","Wed Sep 28 18:20:36 CST 2022","25","test_Case","test_login_pytest","TestLogin","","","test_resetPassword",""
