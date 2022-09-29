@@ -1,10 +1,12 @@
-# encoding: utf-8
-# @author: MrZhou
-# @file: excel_handler.py
-# @time: 2022/9/28 16:19
-# @desc:
-"""excel操作"""
+# # encoding: utf-8
+# # @author: MrZhou
+# # @file: excel_handler.py
+# # @time: 2022/9/28 16:19
+# # @desc:
+# """excel操作"""
 import openpyxl
+import data
+import os
 
 
 class ExcelHandler:
@@ -37,8 +39,10 @@ class ExcelHandler:
         wb.save(self.fpath)
         wb.close()
 
+
 # if __name__ == '__main__':
-#     xls = ExcelHandler('cases.xlsx')
+#     ex = 'E:\KT03\jiekou\data\APICase.xlsx'
+#     xls = ExcelHandler(ex)
 #     excel_data = xls.read('register')
 #     # excel_data
 #     print(excel_data)
