@@ -4,9 +4,7 @@
 # @time: 2022/9/29 11:10
 # @desc:
 import openpyxl
-import xlrd
 from common import excel_handler
-import requests
 import pytest
 from common.requests_handler import RequestsHandler
 
@@ -22,7 +20,7 @@ def test_login(info):
     print(res)
     print(res['msg'])
     try:
-        assert res['msg'] == eval(info['expect'])
+        assert res['msg'] == eval(info['expect'])['msg']
         print("小可爱恭喜你成功了")
     except AssertionError as e:
         raise e
