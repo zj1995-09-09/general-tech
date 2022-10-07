@@ -1,0 +1,25 @@
+time:2021-01-20 20:28:33,115--ERROR:root:用例失败:assert 1 == 2--test_register.py---41
+time:2021-01-21 14:08:57,533--ERROR:root:用例失败:assert 2 == 0--test_register.py---51
+time:2021-01-22 20:31:44,673--ERROR:root:用例失败:assert 1 == 2--test_register.py---35
+time:2021-01-22 20:31:44,878--ERROR:root:用例失败:assert 1 == 2--test_register.py---35
+time:2021-01-22 20:31:44,925--ERROR:root:用例失败:assert 1 == 2--test_register.py---35
+time:2021-01-22 20:31:44,974--ERROR:root:用例失败:assert 1 == 2--test_register.py---35
+time:2021-01-22 20:31:45,078--ERROR:root:用例失败:assert 1 == 2--test_register.py---35
+time:2021-01-22 20:31:45,141--ERROR:root:用例失败:assert 1 == 2--test_register.py---35
+time:2021-01-25 21:02:17,685--ERROR:root:用例失败:assert 2 == 0--test_register.py---40
+time:2021-01-25 21:02:26,210--ERROR:root:用例失败:assert 2 == 0--test_register.py---40
+time:2021-01-25 21:02:32,873--ERROR:root:用例失败:assert 2 == 0--test_register.py---40
+time:2021-01-25 21:39:30,075--ERROR:root:用例失败:assert 2 == 0--test_register.py---47
+time:2021-01-27 21:48:57,395--ERROR:root:assert 'OK' == 'failed'
+  - failed
+  + OK--test_login.py---38
+time:2021-01-27 21:51:39,757--ERROR:root:assert 'OK' == 'failed'
+  - failed
+  + OK--test_login.py---40
+time:2021-01-27 21:53:18,089--ERROR:root:assert 'OK' == 'failed'
+  - failed
+  + OK--test_login.py---41
+time:2021-01-27 21:54:14,434--ERROR:root:assert 'OK' == 'failed'
+  - failed
+  + OK--test_login.py---41
+time:2021-01-27 21:54:14,434--INFO:root:测试数据: {"mobile_phone":"13712341234","pwd":"12345678"}--test_login.py---42
